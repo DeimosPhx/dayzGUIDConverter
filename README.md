@@ -11,3 +11,6 @@ You will be prompted to input your steamID64 (wich can be found at https://steam
 Exécutez le fichier DayZGUIDConverter.exe.
 Une console s'ouvrira et vous demandera d'entrer votre SteamID64 (trouvable via https://steamid.io), coller le dans la console et appuyer sur entré.
 Vous verrez ensuite la console vous donner votre dayZ GUID.
+
+
+This tool uses crypto++ library.
